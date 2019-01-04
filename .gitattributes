@@ -1,2 +1,2 @@
 # Example of a `.gitattributes` file which reclassifies `.rb` files as Java:
-*.hack linguist-language=PHP
+*.php linguist-language=PHP
